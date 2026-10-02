@@ -1,0 +1,39 @@
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
+
+# Python envs / caches
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Tool/agent local state
+.claude/
+.omo/
+.codegraph
+
+# Datasets (re-downloadable)
+data/
+*.tar.gz
+
+# Model weights (re-downloadable)
+*.pt
+*.pth
+*.onnx
+
+# Videos / big media
+*.mp4
+*.avi
+*.mov
+
+# Logs
+*.log
+
+# Browser-saved HTML assets from notebook export
+YOLO26_Tutorial_files/
+
+# Stray empty file
+/yolo

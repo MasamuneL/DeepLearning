@@ -1,0 +1,8 @@
+[project]
+name = "deeplearning"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+    "ipykernel>=7.4.0",
+    "lap>=0.5.13",
+]
