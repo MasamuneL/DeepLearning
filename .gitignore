@@ -37,3 +37,6 @@ YOLO26_Tutorial_files/
 
 # Stray empty file
 /yolo
+
+# Ultralytics training runs / local checkpoints
+runs/
