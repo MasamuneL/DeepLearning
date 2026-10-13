@@ -40,3 +40,6 @@ YOLO26_Tutorial_files/
 
 # Ultralytics training runs / local checkpoints
 runs/
+
+# Lab 2 output videos are stored with Git LFS
+!lab 2/*.mp4
