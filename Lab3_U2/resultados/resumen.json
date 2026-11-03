@@ -1,0 +1,19 @@
+{
+  "seed": 2,
+  "device": "mps",
+  "pets_mejor_validacion": "Dice",
+  "pets_miou_test": 0.6287955024778622,
+  "kvasir_miou_test": 0.6387720618047116,
+  "video_iou_digito_cnn": 0.0,
+  "video_iou_digito_lstm": 0.4714754001969748,
+  "hipocampo_miou_test": 0.7369428676312718,
+  "hipocampo_dice_sin_fondo": 0.7649149122047847,
+  "hipocampo_dataset": "MSD Task04; LISA HTTP 401",
+  "fraude_umbrales_validacion": {
+    "Base": 0.1324247568845749,
+    "Pesos": 0.9968039393424988,
+    "Sobremuestreo": 0.9998431205749512
+  },
+  "torch": "2.14.1",
+  "tensorflow": "2.21.0"
+}
